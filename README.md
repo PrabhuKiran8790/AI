@@ -1,5 +1,5 @@
 # About Me.
-![License](https://img.shields.io/apm/l/vim-mode?style=flat-square)
+[![License](https://img.shields.io/apm/l/vim-mode?style=flat-square)](https://github.com/PrabhuKiran8790/AI/blob/main/LICENSE)
 
 <p align="center">  <img width="350" height="350" src="https://prabhukiran.ignosian.com/static/media/pk.55d30fd9.png">  </p>
 
