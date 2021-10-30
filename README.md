@@ -11,14 +11,6 @@ This repository contains all the work related to AI-Track.
     
     A farmer has recently acquired a 110 hectares piece of land. He hasdecided to grow Wheat and barley on that land. Due to the qualityof the sun and the region's excellent climate, the entire production ofWheat and Barley can be sold. He wants to know how to plant eachvariety in the 110 hectares, given the costs, net profits and laborrequirements according to the data shown below:
 
-    <style type="text/css">
-    .tg  {border-collapse:collapse;border-spacing:0;}
-    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-    overflow:hidden;padding:10px 5px;word-break:normal;}
-    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-    font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-    </style>
     <table class="tg">
     <thead>
     <tr>
