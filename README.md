@@ -1,7 +1,5 @@
-# AI
+# AI 🤖
 [![License](https://img.shields.io/apm/l/vim-mode?style=flat-square)](https://github.com/PrabhuKiran8790/AI/blob/main/LICENSE)
-
-# GitHub Readme
 
 This repository contains all the work related to AI-Track.
 
