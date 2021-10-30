@@ -50,16 +50,14 @@ This repository contains all the work related to AI-Track.
     
     `Gradient Descent Algorithm`
     
-    Minimizing the function $f(x) = x^4 + 3x^2 + 10$  using `Gradient Descent Algorithm`
+    Minimizing the function `f(x) = x^4 + 3x^2 + 10`  using `Gradient Descent Algorithm`
     
 - Assignment 3 [[`Jupyter Notebook Link`](https://github.com/PrabhuKiran8790/AI/blob/main/Assignment_3.ipynb)]
     
     `Gradient Descent Algorithm for 2 Variables`
     
-    Finding global minimum of the given function  $f(x, y) = 3x^2 + 5e^{-y} + 10$ using Gradient Descent Algorithm.
-    ![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}) 
+    Finding global minimum of the given function  `f(x, y) = 3x^2 + 5e^{-y} + 10` using Gradient Descent Algorithm
 
-    
 - Microsoft Azure ML Studio
     - Predicting Income of Adults using Binary Classification in Azure
     ML Classic Studio. [[`Link`](https://github.com/PrabhuKiran8790/AI/blob/main/Azure_ML_Classic_Studio_Binary_Classification.pdf)]
