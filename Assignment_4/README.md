@@ -6,6 +6,8 @@ Dataset : [pH-Bicarbonate.csv](https://github.com/PrabhuKiran8790/AI/blob/main/A
 
 Jupyter Notebook : [assignment4.ipynb](https://github.com/PrabhuKiran8790/AI/blob/main/Assignment_4/assignment4.ipynb)
 
+web application : [bicarbonate-estimation.herokuapp.com](https://bicarbonate-estimation.herokuapp.com/)
+
 ---
 
 Web Application: Made using [Streamlit](https://streamlit.io)
