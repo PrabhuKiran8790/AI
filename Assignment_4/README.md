@@ -14,6 +14,7 @@ Web Application: Made using [`Streamlit`](https://streamlit.io)
 
 - make sure streamlit is installed in your Machine.
 - use the command `pip install streamlit --user` to install
+- Regression Model : [Assignment4_sgd.pkl](https://github.com/PrabhuKiran8790/AI/blob/main/Assignment_4/Web%20Application/Assignment4_sgd.pkl)
 
 ```bash
 streamlit run app.py
