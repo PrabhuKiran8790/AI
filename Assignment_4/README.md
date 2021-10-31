@@ -1,6 +1,6 @@
 # Linear Regression with Stochastic Gradient Optimization
 
-Simple Linear Regression using Stochastic Gradient Optimization for Estimating `Bicarbonates` in Water from the `pH Level`
+Simple Linear Regression with Stochastic Gradient Optimization for Estimating `Bicarbonates` in Water from the `pH Level`
 
 Dataset : [`pH-Bicarbonates.csv`](https://github.com/PrabhuKiran8790/AI/blob/main/Assignment_4/pH-Bicarbonate.csv)
 
