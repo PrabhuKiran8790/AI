@@ -1,6 +1,6 @@
 # Estimating Load using Multiple Linear regression
 
-Multiple Linear Regression Model for Estimating `Load` based on the `previoud 3 hours loads`
+Multiple Linear Regression Model for Estimating `Load` based on the `previous 3 hours loads`
 
 Dataset : [load_data_modified.csv](https://github.com/PrabhuKiran8790/AI/blob/main/Assignment_5/load_data_modified.csv)
 
