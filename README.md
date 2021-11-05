@@ -71,4 +71,9 @@ This repository contains all the work related to AI-Track.
     `Polynomial Regression`
     
     Estimating Bicarbonates from pH-Level of the Water.
-
+    <details>
+    <summary>Click to toggle contents of `code`</summary>
+    ```
+    CODE!
+    ```
+    </details>
