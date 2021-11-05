@@ -1,5 +1,5 @@
 # AI 🤖
-[![License](https://img.shields.io/apm/l/vim-mode?style=flat-square)](https://github.com/PrabhuKiran8790/AI/blob/main/LICENSE)
+[![License](https://img.shields.io/apm/l/vim-mode?style=flat&logo=appveyor)](https://github.com/PrabhuKiran8790/AI/blob/main/LICENSE)
 
 This repository contains all the work related to AI-Track.
 
@@ -53,3 +53,9 @@ This repository contains all the work related to AI-Track.
     ML Classic Studio. [[`Link`](https://github.com/PrabhuKiran8790/AI/blob/main/Azure_ML_Classic_Studio_Binary_Classification.pdf)]
     - Predicting Automobile prices using Regression Model in Azure 
     ML Classic Studio. [[`Link`](https://github.com/PrabhuKiran8790/AI/blob/main/Azure_ML_Studio_Classic%5BAutomobile_price%5D(20K45A0215).pdf)]
+    
+- Assignment 4 [[`Jupyter Notebook Link`](https://github.com/PrabhuKiran8790/AI/blob/main/Assignment_4/assignment4.ipynb)]
+
+    `Linear Regression with SGD Optimization`
+    
+    Estimating Bicarbonates from pH-Level of the Water.
