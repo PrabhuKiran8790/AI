@@ -65,3 +65,10 @@ This repository contains all the work related to AI-Track.
     `Load Estimation using multiple linear regressioni`
     
     Estimating Load based on the last three hours load.
+    
+- Assignment 6 [[`Jupyter Notebook Link`](https://github.com/PrabhuKiran8790/AI/blob/main/polynomial_regression.ipynb)]
+
+    `Polynomial Regression`
+    
+    Estimating Bicarbonates from pH-Level of the Water.
+
