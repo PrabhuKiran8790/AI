@@ -72,8 +72,6 @@ This repository contains all the work related to AI-Track.
     
     Estimating Bicarbonates from pH-Level of the Water.
     <details>
-    <summary>Click to toggle contents of `code`</summary>
-    ```
-    CODE!
-    ```
+    <summary>Manual Calculations</summary>
+    <p align="center">  <img width="1024" height="720" src="https://raw.githubusercontent.com/PrabhuKiran8790/AI/main/src/images/AI_manual_calculations_4.jpg">  </p>
     </details>
