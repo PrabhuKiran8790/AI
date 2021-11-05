@@ -6,7 +6,7 @@ Dataset : [load_data_modified.csv](https://github.com/PrabhuKiran8790/AI/blob/ma
 
 Jupyter Notebook : [assignment5.ipynb](https://github.com/PrabhuKiran8790/AI/blob/main/Assignment_5/PredictingLoad(MLR).ipynb)
 
-web application : [load-estimation.herokuapp.com](https://load-estimation.herokuapp.com/)
+web application : [load-estimate.herokuapp.com](https://load-estimate.herokuapp.com/)
 
 ---
 
