@@ -59,6 +59,11 @@ This repository contains all the work related to AI-Track.
     `Linear Regression with SGD Optimization`
     
     Estimating Bicarbonates from pH-Level of the Water.
+    
+    <details>
+    <summary>Manual Calculations</summary>
+    <p align="center">  <img src="https://raw.githubusercontent.com/PrabhuKiran8790/AI/main/src/images/AI_manual_calculations_4.jpg">  </p>
+    </details>
 
 - Assignment 5 [[`Jupyter Notebook Link`](https://github.com/PrabhuKiran8790/AI/blob/main/Assignment_5/PredictingLoad(MLR).ipynb)]
 
@@ -71,7 +76,4 @@ This repository contains all the work related to AI-Track.
     `Polynomial Regression`
     
     Estimating Bicarbonates from pH-Level of the Water.
-    <details>
-    <summary>Manual Calculations</summary>
-    <p align="center">  <img src="https://raw.githubusercontent.com/PrabhuKiran8790/AI/main/src/images/AI_manual_calculations_4.jpg">  </p>
-    </details>
+
