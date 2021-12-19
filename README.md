@@ -83,5 +83,5 @@ This repository contains all the work related to AI-Track.
    - click [[`here`](https://share.streamlit.io/prabhukiran8790/ai/capstone-project/app.py)] to see the Web Application Made using Streamlit.  
    - Model Trained using Decision Tree Regressor.
    - Dataset used: Stackoverflow 2021 Developers Survey.
-   - source code available [[`here`](https://github.com/PrabhuKiran8790/AI/tree/capstone-project)]
+   - source code available [`here`(https://github.com/PrabhuKiran8790/AI/tree/capstone-project)]
 
